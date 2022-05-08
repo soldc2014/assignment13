@@ -1,0 +1,11 @@
+
+body{
+  margin: 80px;
+  text-transform: bold;
+}
+
+.container-fluid{
+  text-align: center;
+  margin:auto
+  
+}
